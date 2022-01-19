@@ -1,0 +1,30 @@
+body {
+	background: #DB4C40;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	text-align: center;
+}
+div.baslik {
+	color: whitesmoke;
+}
+div.kronometre {
+	color: #220C10;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-bottom: 5%;
+}
+button {
+	margin-top: 30%;
+	margin: 5px;
+	width: 25%;
+	display: inline;
+	height: 50%;
+	border-color: whitesmoke;
+	border-radius: 50px;
+	background: whitesmoke;
+	color: #DB4C40;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-size: 100%;
+}
+button:active {
+	background-color: #19647E;
+	color: whitesmoke;
+}
